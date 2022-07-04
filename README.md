@@ -1,17 +1,15 @@
 # Test Automation a PHP Travels
 
-## El presente proyecto busca demostrar la importancia y utilidad de realizar pruebas en los Softwares antes de que salgan a producción para que puedan ser utilizadas por los usuarios finales, enfocándose principalmente en el “Testing” de una página Web: PHP Travels. Para alcanzar dicho objetivo se emplearán las siguientes herramientas: Selenium WebDriver, Eclipse IDE y Github.
-
 ###### **Integrantes:**
 ###### * Melany Arlin Arrieta Céspedes
 ###### * Sergio Andrés Calderón Torres
 ###### * Fernando Alberto Rojas Chaves
 ###### * Melanny María Salazar Calvo
 
-INTRODUCCIÓN
+# INTRODUCCIÓN
 El presente proyecto busca demostrar la importancia y utilidad de realizar pruebas en los Softwares antes de que salgan a producción para que puedan ser utilizados por los usuarios finales, enfocándose principalmente en el “Testing” de una página Web concreta, aunque los métodos utilizados pueden ser aplicados a cualquier otra página o aplicación web.
 
-REQUERIMIENTOS 
+# REQUERIMIENTOS 
 Desde el rol usuario:
 Módulo Visa
 Verificar que el sistema envíe la solicitud de Visa correctamente cuando el usuario complete el proceso de solicitud.
@@ -37,7 +35,7 @@ Desde el rol proveedor:
       Módulo Tours
 Verificar que el sistema permita al usuario guardar un archivo de Excel o PDF con los datos de hoteles y tours en el ordenador.
 
-PLANIFICACIÓN Y CONFIGURACIÓN DEL AMBIENTE
+# PLANIFICACIÓN Y CONFIGURACIÓN DEL AMBIENTE
 
 1 Instalación de Eclipse IDE
 
