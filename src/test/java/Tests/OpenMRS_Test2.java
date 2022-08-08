@@ -11,6 +11,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class OpenMRS_Test2 {
+	
 	private static WebDriver driver;
 	
 	@BeforeClass
