@@ -12,7 +12,7 @@ Para elaborar este proyecto se utilizaron las herramientas Selenium WebDriver, E
 
 Como primer paso se realizó la instalación del IDE en nuestro caso Eclipse.
 
-![](https://github.com/MelanyAC/CS_Proyecto/blob/main/IDE%20Eclipse.JPG)
+![](https://github.com/msc98/CS_Proyecto/blob/main/IDE%20Eclipse.JPG)
 
 Fig. 1 Instalación de Eclipse IDE.
 
