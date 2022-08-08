@@ -1,6 +1,6 @@
 package Tests;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import java.time.Duration;
 import java.util.List;
@@ -22,7 +22,7 @@ public class OpenMRS_Test1 {
 
 		// Determina la ubicación del ChromeDriver
 		System.setProperty("webdriver.chrome.driver",
-				"\\Users\\Fer\\Documents\\Selenium\\Chrome Driver\\chromedriver.exe");
+				"src\\main\\resources\\Drivers\\chromedriver.exe");
 
 		// Inicia el ChromeDriver en la variable driver
 		driver = new ChromeDriver();
@@ -37,10 +37,8 @@ public class OpenMRS_Test1 {
 
 	@AfterClass
 	public static void tearDownAfterClass() throws Exception {
-
 		// Cierra el browser
 		driver.close();
-
 	}
 
 	@Test
